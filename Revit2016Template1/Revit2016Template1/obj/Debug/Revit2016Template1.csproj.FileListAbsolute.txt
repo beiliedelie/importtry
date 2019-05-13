@@ -1,0 +1,4 @@
+C:\Users\63067\Desktop\RevitTest\Revit2016Template1\Revit2016Template1\bin\Debug\Revit2016Template1.dll
+C:\Users\63067\Desktop\RevitTest\Revit2016Template1\Revit2016Template1\bin\Debug\Revit2016Template1.pdb
+C:\Users\63067\Desktop\RevitTest\Revit2016Template1\Revit2016Template1\obj\Debug\Revit2016Template1.dll
+C:\Users\63067\Desktop\RevitTest\Revit2016Template1\Revit2016Template1\obj\Debug\Revit2016Template1.pdb
