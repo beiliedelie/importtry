@@ -1,0 +1,10 @@
+D:\unHide\unHide\bin\Debug\unHide.dll
+D:\unHide\unHide\bin\Debug\unHide.pdb
+D:\unHide\unHide\obj\Debug\unHide.csprojResolveAssemblyReference.cache
+D:\unHide\unHide\obj\Debug\unHide.dll
+D:\unHide\unHide\obj\Debug\unHide.pdb
+C:\Users\63067\Desktop\unHide\unHide\bin\Debug\unHide.dll
+C:\Users\63067\Desktop\unHide\unHide\bin\Debug\unHide.pdb
+C:\Users\63067\Desktop\unHide\unHide\obj\Debug\unHide.csprojResolveAssemblyReference.cache
+C:\Users\63067\Desktop\unHide\unHide\obj\Debug\unHide.dll
+C:\Users\63067\Desktop\unHide\unHide\obj\Debug\unHide.pdb
